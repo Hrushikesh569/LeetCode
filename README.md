@@ -15,6 +15,7 @@ They’re not perfect — some are brute force, some are half-baked optimization
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0900-reordered-power-of-2](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
