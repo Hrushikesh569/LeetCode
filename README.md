@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Sorting
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Enumeration
 |  |
 | ------- |
@@ -58,4 +60,16 @@
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0072-edit-distance) |
+## Design
+|  |
+| ------- |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+## Queue
+|  |
+| ------- |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 <!---LeetCode Topics End-->
