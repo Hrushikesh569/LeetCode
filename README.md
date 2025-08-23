@@ -1,6 +1,4 @@
 # LeetCode-Solutions
-This is a collection of my solutions to various LeetCode problems, mostly in C++.
-They’re not perfect — some are brute force, some are half-baked optimizations — but all of them are part of my learning journey.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
