@@ -25,6 +25,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3462-vowels-game-in-a-string](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0072-edit-distance) |
+| [3462-vowels-game-in-a-string](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Design
 |  |
 | ------- |
@@ -88,4 +90,12 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
