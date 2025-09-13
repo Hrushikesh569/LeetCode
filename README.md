@@ -42,6 +42,7 @@
 | [0036-valid-sudoku](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0900-reordered-power-of-2](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Enumeration
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 | ------- |
 | [0072-edit-distance](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [3462-vowels-game-in-a-string](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Design
 |  |
 | ------- |
