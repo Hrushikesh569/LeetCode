@@ -71,6 +71,7 @@
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0072-edit-distance) |
+| [0165-compare-version-numbers](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [3462-vowels-game-in-a-string](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Design
@@ -101,4 +102,8 @@
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0165-compare-version-numbers](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 <!---LeetCode Topics End-->
