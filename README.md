@@ -6,6 +6,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0120-triangle](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0120-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0072-edit-distance) |
+| [0120-triangle](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0279-perfect-squares](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Breadth-First Search
