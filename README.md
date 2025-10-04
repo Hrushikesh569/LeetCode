@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0120-triangle](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0120-triangle) |
@@ -114,6 +115,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0165-compare-version-numbers](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 ## Simulation
 |  |
@@ -129,4 +131,8 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
