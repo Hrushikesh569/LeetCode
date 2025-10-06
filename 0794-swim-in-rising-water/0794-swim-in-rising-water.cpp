@@ -20,9 +20,8 @@ public:
             q.pop();
             int x = val.first;
             int r  = val.second.first,c = val.second.second;
-            cout<<c<<endl;
-            int rr , cc;
-            int vall = 10000000;
+         
+           
             maxi = max(maxi , x);
             if(r==c&&c==n-1) return maxi;
             for(int i = 0 ; i < 4 ; i++)
@@ -33,8 +32,7 @@ public:
                 {
                      q.push(make_pair(grid[row][col],make_pair(row,col)));
                   
-                     vis[row][col]  = 1;
-                     
+                     vis[row][col]  = 1;    
                 }
             }
             
