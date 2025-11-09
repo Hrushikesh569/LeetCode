@@ -41,6 +41,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1642-water-bottles](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -156,6 +157,7 @@
 | ------- |
 | [1642-water-bottles](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3336-water-bottles-ii) |
 ## Combinatorics
