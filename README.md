@@ -92,6 +92,7 @@
 | [0900-reordered-power-of-2](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4090-minimum-string-length-after-balanced-removals](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/4090-minimum-string-length-after-balanced-removals) |
 ## Enumeration
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4090-minimum-string-length-after-balanced-removals](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/4090-minimum-string-length-after-balanced-removals) |
 ## Design
 |  |
 | ------- |
@@ -224,4 +226,8 @@
 |  |
 | ------- |
 | [2625-increment-submatrices-by-one](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2625-increment-submatrices-by-one) |
+## Stack
+|  |
+| ------- |
+| [4090-minimum-string-length-after-balanced-removals](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/4090-minimum-string-length-after-balanced-removals) |
 <!---LeetCode Topics End-->
