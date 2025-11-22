@@ -24,6 +24,7 @@
 | [2432-number-of-zero-filled-subarrays](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2625-increment-submatrices-by-one](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -48,6 +49,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
