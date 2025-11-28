@@ -232,6 +232,7 @@
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Union Find
 |  |
 | ------- |
@@ -250,4 +251,8 @@
 |  |
 | ------- |
 | [4090-minimum-string-length-after-balanced-removals](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/4090-minimum-string-length-after-balanced-removals) |
+## Tree
+|  |
+| ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 <!---LeetCode Topics End-->
