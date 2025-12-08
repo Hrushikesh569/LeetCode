@@ -57,6 +57,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1925-count-square-sum-triples](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
+| [1925-count-square-sum-triples](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
 ## Dynamic Programming
 |  |
 | ------- |
