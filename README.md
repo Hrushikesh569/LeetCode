@@ -35,6 +35,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3583-count-special-triplets](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -99,6 +100,7 @@
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3583-count-special-triplets](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
@@ -119,6 +121,7 @@
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+| [3583-count-special-triplets](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3583-count-special-triplets) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4090-minimum-string-length-after-balanced-removals](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/4090-minimum-string-length-after-balanced-removals) |
 ## Enumeration
