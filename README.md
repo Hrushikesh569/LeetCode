@@ -162,6 +162,7 @@
 ## Design
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Queue
 |  |
@@ -171,6 +172,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Sliding Window
 |  |
@@ -278,6 +280,7 @@
 ## Stack
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [2211-count-collisions-on-a-road](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [4090-minimum-string-length-after-balanced-removals](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/4090-minimum-string-length-after-balanced-removals) |
 ## Tree
@@ -293,4 +296,8 @@
 |  |
 | ------- |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
