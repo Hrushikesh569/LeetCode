@@ -32,6 +32,7 @@
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -69,6 +70,7 @@
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -119,6 +121,7 @@
 | [2141-maximum-running-time-of-n-computers](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3433-count-mentions-per-user](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Counting
@@ -221,6 +224,7 @@
 | [2288-count-operations-to-obtain-zero](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3336-water-bottles-ii) |
+| [3433-count-mentions-per-user](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3433-count-mentions-per-user) |
 ## Combinatorics
 |  |
 | ------- |
