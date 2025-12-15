@@ -12,6 +12,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0274-h-index](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0407-trapping-rain-water-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0739-daily-temperatures](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0794-swim-in-rising-water](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0907-sum-of-subarray-minimums](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -314,6 +315,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -335,6 +337,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
