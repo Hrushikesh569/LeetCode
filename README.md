@@ -20,6 +20,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1612-avoid-flood-in-the-city](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -65,6 +66,7 @@
 | [1642-water-bottles](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -154,6 +156,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
