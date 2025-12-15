@@ -186,11 +186,13 @@
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Data Stream
@@ -308,6 +310,7 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+| [0232-implement-queue-using-stacks](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
