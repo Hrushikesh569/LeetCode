@@ -41,11 +41,9 @@ public:
         int ans = 0 ; 
         for(int i =0 ;i < n ;i++)
         {
-            cout<<right[i]<<" ";
+          
             ans = max((right[i]-left[i]-1)*heights[i] , ans);
         }
-        cout<<endl;
-        for(auto i  : left)cout<<i<<" ";
 
         return ans;
     }
