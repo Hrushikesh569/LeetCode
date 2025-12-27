@@ -31,6 +31,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2402-meeting-rooms-iii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2625-increment-submatrices-by-one) |
@@ -119,6 +120,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2402-meeting-rooms-iii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -140,6 +142,7 @@
 | [2141-maximum-running-time-of-n-computers](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2402-meeting-rooms-iii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3433-count-mentions-per-user) |
@@ -259,6 +262,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2402-meeting-rooms-iii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [3336-water-bottles-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3433-count-mentions-per-user](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3433-count-mentions-per-user) |
 ## Combinatorics
@@ -273,6 +277,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
+| [2402-meeting-rooms-iii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Greedy
