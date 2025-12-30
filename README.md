@@ -15,6 +15,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0739-daily-temperatures](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0794-swim-in-rising-water](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0907-sum-of-subarray-minimums](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -73,6 +74,7 @@
 | [0231-power-of-two](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0840-magic-squares-in-grid](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -119,6 +121,7 @@
 | [0036-valid-sudoku](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0290-word-pattern](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0756-pyramid-transition-matrix](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0756-pyramid-transition-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1612-avoid-flood-in-the-city](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
@@ -240,6 +243,7 @@
 | [0036-valid-sudoku](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0407-trapping-rain-water-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2625-increment-submatrices-by-one) |
