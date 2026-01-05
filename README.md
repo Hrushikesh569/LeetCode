@@ -31,6 +31,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -255,6 +256,7 @@
 | [0840-magic-squares-in-grid](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 ## Brainteaser
@@ -308,6 +310,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1612-avoid-flood-in-the-city](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1975-maximum-matrix-sum](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
