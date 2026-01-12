@@ -24,6 +24,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -85,6 +86,7 @@
 | [0840-magic-squares-in-grid](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -397,6 +399,7 @@
 ## Geometry
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Monotonic Queue
