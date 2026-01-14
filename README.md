@@ -130,6 +130,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0290-word-pattern](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0756-pyramid-transition-matrix](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0756-pyramid-transition-matrix) |
@@ -213,6 +214,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0072-edit-distance](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0165-compare-version-numbers](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0224-basic-calculator](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0224-basic-calculator) |
@@ -252,6 +254,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
