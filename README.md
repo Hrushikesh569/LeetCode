@@ -61,6 +61,7 @@
 | [3433-count-mentions-per-user](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3433-count-mentions-per-user) |
 | [3453-separate-squares-i](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -156,6 +157,7 @@
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3583-count-special-triplets) |
@@ -316,6 +318,7 @@
 | [2402-meeting-rooms-iii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [3336-water-bottles-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3433-count-mentions-per-user](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3433-count-mentions-per-user) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -329,6 +332,7 @@
 | [0794-swim-in-rising-water](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [2402-meeting-rooms-iii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Greedy
@@ -349,6 +353,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -453,4 +458,12 @@
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
