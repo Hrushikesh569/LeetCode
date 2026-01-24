@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0274-h-index](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0274-h-index) |
@@ -145,6 +146,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0290-word-pattern](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0756-pyramid-transition-matrix](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
@@ -367,6 +369,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Merge Sort
 |  |
 | ------- |
@@ -429,6 +432,7 @@
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -456,6 +460,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
