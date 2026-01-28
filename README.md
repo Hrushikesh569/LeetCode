@@ -24,6 +24,7 @@
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1200-minimum-absolute-difference](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -155,6 +156,7 @@
 | [0900-reordered-power-of-2](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1612-avoid-flood-in-the-city](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -397,6 +399,7 @@
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0794-swim-in-rising-water](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -442,6 +445,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -471,6 +475,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Segment Tree
