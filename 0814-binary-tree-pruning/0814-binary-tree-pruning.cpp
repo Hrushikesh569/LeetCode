@@ -11,25 +11,16 @@
  */
 class Solution {
 public:
-     bool dfs(TreeNode* root)
+     TreeNode* dfs(TreeNode* root)
     {
-        if(root==NULL ) return false;
-        if(root->val==1) return 1;
-        return (dfs(root->left) || dfs(root->right));     
+       if(root==NULL) return NULL;
+        root->left=dfs(root->left);
+       root->right = dfs(root->right);
+       if(root->left==NULL && root->right==NULL && root->val==0) return NULL;
+       return root;
     }
     TreeNode* pruneTree(TreeNode* root) {
-            if(!root) return root;
-            if(!dfs(root->left))
-            {
-                root->left  = NULL;
-            }
-            if(!dfs(root->right))
-            {
-                root->right = NULL;
-            }
-            pruneTree(root->left);
-            pruneTree(root->right);
-            if(root->left==NULL && root->right==NULL && root->val==0) return NULL;
-            return root;
+          
+            return dfs(root);
     }
 };
