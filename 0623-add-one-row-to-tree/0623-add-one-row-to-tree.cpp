@@ -38,6 +38,27 @@ public:
             node->left = root;
             return node;
         }
-        return dfs(root, 1);
+        queue<pair<TreeNode*,int>>q;
+        q.push({root,1});
+        int cur = 1;
+        while(!q.empty())
+        {
+             auto node = q.front();
+             q.pop();
+             if(node.second==depth-1)
+             {
+                TreeNode* leftside = new TreeNode(val);
+                TreeNode* rightside = new TreeNode(val);
+                leftside->left = node.first->left;
+                rightside->right = node.first->right;
+                node.first->left = leftside;
+                node.first->right = rightside;
+             }
+             if(node.first->left)
+             q.push({node.first->left,node.second+1});
+             if(node.first->right)
+             q.push({node.first->right,node.second+1});
+        }
+        return root;
     }
 };
