@@ -16,10 +16,13 @@ public:
     {
         if(root==NULL) return 0 ; 
         sum+=root->val;
-     
+        int x = 0 ; 
+        int y = 0 ;
         if(!root->left and !root->right and sum==t) return 1;
      //   cout<<sum<<" ";
-      return dfs(root->left,sum) ||   dfs(root->right,sum);
+    x = dfs(root->left,sum);
+    y =  dfs(root->right,sum);
+    return x+y;
     } 
     bool hasPathSum(TreeNode* root, int targetSum) {
         t = targetSum ;
