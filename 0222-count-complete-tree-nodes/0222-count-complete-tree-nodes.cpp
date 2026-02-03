@@ -17,7 +17,7 @@ public:
         if(!root) return ; 
         st.push_back(root->val);
         dfs(root->left,st);
-        cout<<root->val<<" ";
+      //  cout<<root->val<<" ";
         dfs(root->right,st);
         
     }
