@@ -16,7 +16,7 @@ public:
             if(nums[j-1]>=nums[j])
             break;
         }
-        cout<<i<<" "<<j<<endl;
+     //   cout<<i<<" "<<j<<endl;
         if(i>=j || i==0 || j==n-1) return 0;
         for(int st = i ; st < j ; st++)
         {
