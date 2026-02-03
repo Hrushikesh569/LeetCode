@@ -136,6 +136,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0756-pyramid-transition-matrix](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0756-pyramid-transition-matrix) |
@@ -401,6 +402,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -466,6 +468,7 @@
 | [0112-path-sum](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0623-add-one-row-to-tree](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0814-binary-tree-pruning](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -500,6 +503,7 @@
 | [0112-path-sum](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0623-add-one-row-to-tree](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0814-binary-tree-pruning](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
