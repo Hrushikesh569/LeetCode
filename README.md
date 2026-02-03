@@ -421,6 +421,7 @@
 | [0623-add-one-row-to-tree](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0794-swim-in-rising-water](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0814-binary-tree-pruning](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0814-binary-tree-pruning) |
+| [0872-leaf-similar-trees](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -471,6 +472,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0623-add-one-row-to-tree](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0814-binary-tree-pruning](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0814-binary-tree-pruning) |
+| [0872-leaf-similar-trees](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -506,6 +508,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0623-add-one-row-to-tree](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0814-binary-tree-pruning](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0814-binary-tree-pruning) |
+| [0872-leaf-similar-trees](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
