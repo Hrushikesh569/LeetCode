@@ -86,6 +86,7 @@
 | [3623-count-number-of-trapezoids-i](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3637-trionic-array-i](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Backtracking
@@ -240,6 +241,7 @@
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3640-trionic-array-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Breadth-First Search
 |  |
