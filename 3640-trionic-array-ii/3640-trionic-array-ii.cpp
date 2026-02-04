@@ -65,7 +65,7 @@ public:
         n = nums.size();
         vector<vector<ll>>dp(n+1,vector<ll>(4,-1));
         
-        ll ans = dfs(0,0,nums,dp);
-        return ans  ; 
+        return dfs(0,0,nums,dp);
+         
     }
 };
