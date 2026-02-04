@@ -227,6 +227,7 @@
 | [0072-edit-distance](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0120-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0279-perfect-squares](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0907-sum-of-subarray-minimums](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -419,6 +420,7 @@
 | ------- |
 | [0112-path-sum](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0623-add-one-row-to-tree](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0794-swim-in-rising-water](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
@@ -471,6 +473,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0623-add-one-row-to-tree](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
@@ -508,6 +511,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0623-add-one-row-to-tree](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
