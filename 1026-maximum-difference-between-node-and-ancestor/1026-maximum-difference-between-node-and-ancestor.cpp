@@ -12,25 +12,20 @@
     class Solution {
     public:
         int ans  ;
-        void dfs(TreeNode* root , TreeNode* child)
+        int dfs(TreeNode* root,int maxi , int mini)
         {
-            if(root==NULL || child==NULL) return ; 
-            ans = max(ans , abs(root->val-child->val));
-            dfs(root,child->left);
-            dfs(root,child->right);
-        } 
-        void check(TreeNode* root)
-        {
-            if(!root) return ;
-            dfs(root,root->left);
-            dfs(root , root->right);
-            check(root->left);
-            check(root->right);
+            if(!root)
+            {
+                return abs(mini - maxi);
+            }
+            mini = min(root->val,mini);
+            maxi = max(root->val,maxi);
+           int l = dfs(root->left,maxi,mini);
+           int r = dfs(root->right,maxi,mini);
+           return max(r,l);
         }
         int maxAncestorDiff(TreeNode* root) {
-            ans = -1; 
-            check(root);
-            return ans; 
-
+            
+            return dfs(root,-6000,6000); 
         }
     };
