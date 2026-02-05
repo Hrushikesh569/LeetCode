@@ -249,6 +249,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0279-perfect-squares) |
@@ -422,6 +423,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -475,6 +477,7 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
@@ -514,6 +517,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
