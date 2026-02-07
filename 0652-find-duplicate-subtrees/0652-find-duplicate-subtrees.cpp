@@ -17,10 +17,8 @@ public:
     {
         if(!root)return "N";
         string s = to_string(root->val)+","+dfs(root->left)+","+dfs(root->right);
-        if(mp.count(s))
+        if(mp[s]==1)
         {
-            //cout<<s<<" ";
-            if(mp[s]==1)
             ans.push_back(root);
         }
         mp[s]++;
