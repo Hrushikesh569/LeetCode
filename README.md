@@ -239,6 +239,7 @@
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -275,6 +276,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -475,6 +477,7 @@
 | [0901-online-stock-span](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [4090-minimum-string-length-after-balanced-removals](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/4090-minimum-string-length-after-balanced-removals) |
 ## Tree
