@@ -31,7 +31,7 @@ public:
     TreeNode* balanceBST(TreeNode* root) {
         vector<int>v;
         dfs(root,v);      
-        for(auto i : v)cout<<i<<" ";
+       // for(auto i : v)cout<<i<<" ";
         return bst(0 , v.size()-1,v);  
     }
 };
