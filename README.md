@@ -194,6 +194,7 @@
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -225,6 +226,7 @@
 | [0900-reordered-power-of-2](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3583-count-special-triplets](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3583-count-special-triplets) |
+| [3713-longest-balanced-substring-i](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4090-minimum-string-length-after-balanced-removals](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/4090-minimum-string-length-after-balanced-removals) |
 ## Enumeration
@@ -234,6 +236,7 @@
 | [1925-count-square-sum-triples](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -294,6 +297,7 @@
 | [2483-minimum-penalty-for-a-shop](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3462-vowels-game-in-a-string](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3606-coupon-code-validator](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
+| [3713-longest-balanced-substring-i](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4090-minimum-string-length-after-balanced-removals](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/4090-minimum-string-length-after-balanced-removals) |
 ## Design
