@@ -247,6 +247,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0279-perfect-squares](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0799-champagne-tower](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0799-champagne-tower) |
 | [0907-sum-of-subarray-minimums](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
