@@ -105,6 +105,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0231-power-of-two) |
@@ -144,6 +145,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0342-power-of-four) |
@@ -281,6 +283,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0067-add-binary](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0165-compare-version-numbers](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0224-basic-calculator](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0224-basic-calculator) |
@@ -369,6 +372,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2211-count-collisions-on-a-road) |
