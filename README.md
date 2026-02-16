@@ -146,6 +146,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0342-power-of-four) |
@@ -431,6 +432,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0190-reverse-bits](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
