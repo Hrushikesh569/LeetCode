@@ -150,6 +150,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
