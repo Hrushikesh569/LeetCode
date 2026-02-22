@@ -9,7 +9,7 @@ public:
         }
         int ans =0; 
         int cnt = 0 ; 
-       cout<<s<<endl;
+      // cout<<s<<endl;
         for(int i = 0 ; i<s.size() ;i++)
         {
             if(s[i]=='1') 
@@ -22,7 +22,11 @@ public:
                     cnt++;
                     j++;
                 }
-                if(j<s.size()) ans = max(ans,cnt);
+                if(j<s.size()) {
+                    ans = max(ans,cnt);
+                    i = j-1;
+                }
+
            
             }
         }
