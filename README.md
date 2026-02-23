@@ -156,6 +156,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -182,6 +183,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1612-avoid-flood-in-the-city](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -301,6 +303,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -624,4 +627,12 @@
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
