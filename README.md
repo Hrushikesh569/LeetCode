@@ -31,6 +31,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -156,6 +157,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -216,6 +218,7 @@
 | [0900-reordered-power-of-2](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1200-minimum-absolute-difference](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -235,6 +238,7 @@
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3583-count-special-triplets](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
