@@ -1,0 +1,1 @@
+select t2.name as Department , t1.name as Employee , t1.salary as Salary from (select  id,name , salary , departmentId ,dense_rank() over (partition by departmentId order by salary DESC) as dip from Employee) as t1  Join Department as t2 on t1.departmentId = t2.id where t1.dip = 1;
