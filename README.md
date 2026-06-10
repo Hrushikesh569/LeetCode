@@ -391,6 +391,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0165-compare-version-numbers](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0696-count-binary-substrings](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
@@ -454,6 +455,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
