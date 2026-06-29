@@ -13,6 +13,7 @@
 | [0085-maximal-rectangle](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0120-triangle) |
+| [0136-single-number](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0274-h-index](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0274-h-index) |
@@ -151,6 +152,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0231-power-of-two) |
