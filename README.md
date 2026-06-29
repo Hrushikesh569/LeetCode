@@ -27,6 +27,7 @@
 | [0274-h-index](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0407-trapping-rain-water-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
@@ -198,6 +199,7 @@
 | [0290-word-pattern](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0523-continuous-subarray-sum](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0652-find-duplicate-subtrees](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0756-pyramid-transition-matrix](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
@@ -551,6 +553,7 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1895-largest-magic-square](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1895-largest-magic-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
