@@ -12,6 +12,7 @@
 | [0040-combination-sum-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -226,6 +227,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0274-h-index](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0761-special-binary-string](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0761-special-binary-string) |
 | [0900-reordered-power-of-2](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
@@ -403,6 +405,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0696-count-binary-substrings](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
