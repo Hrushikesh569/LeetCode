@@ -17,6 +17,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0118-pascals-triangle](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -284,6 +285,7 @@
 | [0053-maximum-subarray](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
