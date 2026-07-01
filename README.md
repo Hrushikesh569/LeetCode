@@ -31,6 +31,7 @@
 | [0229-majority-element-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0407-trapping-rain-water-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0493-reverse-pairs](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
@@ -509,6 +510,7 @@
 | [0169-majority-element](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0493-reverse-pairs](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0761-special-binary-string](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -517,10 +519,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 ## Binary Search
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0493-reverse-pairs](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -664,6 +668,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [3454-separate-squares-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
@@ -679,6 +684,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Graph Theory
@@ -715,4 +721,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
