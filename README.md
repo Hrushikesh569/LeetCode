@@ -18,6 +18,7 @@
 | [0056-merge-intervals](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -529,6 +530,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0493-reverse-pairs](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
