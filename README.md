@@ -30,6 +30,7 @@
 | [0136-single-number](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
@@ -532,6 +533,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0493-reverse-pairs](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
