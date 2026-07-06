@@ -38,6 +38,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0493-reverse-pairs](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -536,6 +537,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0493-reverse-pairs](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
