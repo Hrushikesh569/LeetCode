@@ -361,6 +361,7 @@
 | [0761-special-binary-string](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0761-special-binary-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -614,6 +615,7 @@
 | [0739-daily-temperatures](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1021-remove-outermost-parentheses](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2211-count-collisions-on-a-road) |
