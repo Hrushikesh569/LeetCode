@@ -153,6 +153,7 @@
 | [1642-water-bottles](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1903-largest-odd-number-in-string](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -368,6 +369,7 @@
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1903-largest-odd-number-in-string](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -500,6 +502,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1903-largest-odd-number-in-string](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1975-maximum-matrix-sum](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
