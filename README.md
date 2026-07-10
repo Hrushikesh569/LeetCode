@@ -42,6 +42,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
@@ -219,6 +220,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0652-find-duplicate-subtrees](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0652-find-duplicate-subtrees) |
+| [0740-delete-and-earn](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0740-delete-and-earn) |
 | [0756-pyramid-transition-matrix](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
@@ -315,6 +317,7 @@
 | [0198-house-robber](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0740-delete-and-earn](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0740-delete-and-earn) |
 | [0799-champagne-tower](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0799-champagne-tower) |
 | [0907-sum-of-subarray-minimums](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
