@@ -1,28 +1,37 @@
 class Solution {
 public:
-    int dfs(vector<vector<int>>&t,int i , int j,int n,vector<vector<int>>&dp)
-    {
-        if(i==n) return 0;
-        if(dp[i][j]!=-1) return dp[i][j];
-        int x = t[i][j]+dfs(t,i+1,j,n,dp);
-        int y = 1000000;
-        if(j<t[i].size())
+    // int dfs(int i ,int j , vector<vector<int>>&nums)
+    // {
+    //     if(i == nums.size()-1)
+    //     {
+    //         return nums[i][j];
+    //     }
+    //     int c = 1e9 , next = 1e9;
+        
+    //     next =  dfs(i+1 , j+1,  nums);
+    //     c = dfs(i+1 , j,nums);
+        
+    //     return min(next , c)+nums[i][j] ; 
+    // }
+    int minimumTotal(vector<vector<int>>& nums) {
+        int n = nums.size();
+        vector<vector<int>>dp(n+1 , vector<int>(n+2));
+        for(int i = n - 1;  i >= 0 ; i--)
         {
-            y=t[i][j]+ dfs(t,i+1,j+1,n,dp);
+            dp[n-1][i] = nums[n-1][i];
         }
-        return dp[i][j]=min(x,y);
-    }
-    int minimumTotal(vector<vector<int>>& t) {
-        int n = t.size();
-        if(n==0) return n;
-      vector<int>dp=t[n-1];
-      for(int i= n-2 ; i>=0 ; i--)
-      {
-        for(int j = 0 ; j<=i ; j++)
+        for(int i = n - 2 ; i>= 0 ; i--)
         {
-            dp[j] = t[i][j]+min(dp[j],dp[j+1]);
+            for(int j = i ; j>=0 ; j--)
+            {
+                dp[i][j] = min(dp[i+1][j+1],dp[i+1][j])+nums[i][j];
+            }
         }
-      }
-      return dp[0];
+        // for(auto i : dp)
+        // {
+        //     for(auto j: i)cout<<j<<" ";
+        //     cout<<endl;
+        // }
+        return dp[0][0];
     }
 };
