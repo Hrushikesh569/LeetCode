@@ -40,6 +40,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -132,6 +133,7 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0113-path-sum-ii](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
+| [0494-target-sum](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0756-pyramid-transition-matrix](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0756-pyramid-transition-matrix) |
 ## Math
 |  |
@@ -320,6 +322,7 @@
 | [0279-perfect-squares](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0740-delete-and-earn) |
 | [0799-champagne-tower](https://github.com/Hrushikesh569/LeetCode-Solutions/tree/master/0799-champagne-tower) |
